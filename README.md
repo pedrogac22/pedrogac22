@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedrogac22
-- 👀 I’m interested in operating system, programming, C/C++, Python, Go.
+- 👀 I’m interested in operating system programming, C/C++, Python and Go.
 - 🌱 I’m currently learning Linux Kernel Programming and C/C++ code.
 - 📫 How to reach me: pedrogac2@gmail.com; https://www.linkedin/com/in/pgomesdev1
 
